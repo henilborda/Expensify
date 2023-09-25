@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284354048117",
+    "project_id": "expensify-6af7a",
+    "storage_bucket": "expensify-6af7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284354048117:android:14e4c0359607832bbd883c",
+        "android_client_info": {
+          "package_name": "com.example.henil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284354048117-bfainmhdve9ovcpcv1ovb32flnrt2o8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.henil",
+            "certificate_hash": "fb7717dfd20ffef3eb184e813030fa66c6f0579c"
+          }
+        },
+        {
+          "client_id": "284354048117-3povnhn3d48sc7mfinqdbq6hc120es6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQWA6fSf2p-r7VuZc8h8lBMts7V9OARjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284354048117-3povnhn3d48sc7mfinqdbq6hc120es6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
